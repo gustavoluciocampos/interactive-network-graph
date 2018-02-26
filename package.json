@@ -1,0 +1,12 @@
+{
+  "name": "navigation-graph",
+  "version": "1.0.0",
+  "description": "Example of navigation graph with D3js",
+  "main": "index.js",
+  "author": "Gustavo Campos",
+  "license": "ISC",
+  "dependencies": {
+    "d3-node": "^1.1.3",
+    "express": "^4.16.2"
+  }
+}
